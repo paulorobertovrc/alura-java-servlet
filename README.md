@@ -16,6 +16,7 @@ Link do certificado: https://cursos.alura.com.br/certificate/d19ac902-40f3-4a6a-
 - Filtros
 - Web services
 - Deploy no Jetty
+- Criação de um cliente HTTP com Apache HttpComponents
 
 Data de conclusão: 12/01/2023
 
